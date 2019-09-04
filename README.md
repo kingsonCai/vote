@@ -10,3 +10,8 @@
 * npm install pm2 -g 全局安装pm2
 * 克隆代码到本地之后,在项目根目录执行 npm install 安装依赖
 * 执行npm run prd, 在pm2上跑
+
+
+### 运行测试用例
+* npm install mocha -g 全局安装mocha
+* 在项目根目录执行命令: mocha
